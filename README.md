@@ -6,5 +6,5 @@ In my studies, I'm taking notes of the content and enhance the notes with ChatGP
 ## Study notes
 | Name          | URL                                   | Status    |
 | ------------- | --------------------------------------------- | --------- |
-| AWS Cloud Practitioner  | [AWS Cloud Practitioner](https://gabrielcasemiro.github.io/AWSCertifications/CloudPractitioner) | In progress    |
+| AWS Cloud Practitioner  | [Study Notes](https://github.com/GabrielCasemiro/AWSCertifications/tree/main/CloudPractitioner) | In progress    |
 | AWS Architect Associate            | -                | To do    |
