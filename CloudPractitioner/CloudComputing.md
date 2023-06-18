@@ -89,3 +89,38 @@
 - **IaaS (Infrastructure as a Service):** Provides virtualized computing resources, such as virtual machines, storage, and networks, over the internet.
 - **PaaS (Platform as a Service):** Offers a platform for developing, testing, and deploying applications without the need for infrastructure management.
 - **SaaS (Software as a Service):** Delivers fully functional software applications over the internet, eliminating the need for installation and maintenance.
+
+
+## AWS Global Infrastructure
+
+- AWS Regions
+- AWS Availability Zones
+- AWS Data Centers
+- AWS Edge Locations/ Points of Presence
+
+## AWS has global services
+ - IAM
+ - Route 53
+ - Cloudfront 
+ - WAF
+
+## Most AWS services are Region-scoped
+- EC2
+- Elastic Beanstalk
+- Lambda
+- Reckognition
+
+## Shared Resposability Model Diagram
+
+- Customer
+    - Responsible the security in the cloud
+        - Users, Groups, Roles, Policies management and monitoring
+        - Enable MFA on all accounts
+        - rotate all your keys often
+        - Use IAM tools to apply appropriate permissions
+        - Analyze access patterns & review permissions
+- AWS
+    - Responsible the security of the cloud
+        - Infrastructure (global network security)
+        - Configuration and vulnerability analysis
+        - Compliance validation
